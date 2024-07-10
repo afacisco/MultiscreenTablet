@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Multiscreen Tablet</string>
+    <string name="texto_fragment_movil">Hello!! fragment móvil</string>
+    <string name="texto_fragment_tablet">Hello!! fragment tablet</string>
+    <string name="texto_ancho600">Ancho de al menos 600dp</string>
+</resources>
